@@ -40,3 +40,9 @@ Finished the CSS section of
 
 Completed the Responsive Web Design Challenges #Day016 #100DaysOfCode Previously I'd been guessing with how to correctly size images on web pages. It's great to finally understand how to do that properly.
 
+#Day017 #100DaysOfCode Happy Xmas everyone 
+Started & completed the CSS Flexbox section. 1st thing I did on Xmas morning, after #PokemonGo striking a lucky egg, opening all my pokepals gifts and evolving some pokemon was do my code. No better way to start the day
+
+
+
+
