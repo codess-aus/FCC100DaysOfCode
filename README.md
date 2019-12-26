@@ -43,6 +43,6 @@ Completed the Responsive Web Design Challenges #Day016 #100DaysOfCode Previously
 #Day017 #100DaysOfCode Happy Xmas everyone 
 Started & completed the CSS Flexbox section. 1st thing I did on Xmas morning, after #PokemonGo striking a lucky egg, opening all my pokepals gifts and evolving some pokemon was do my code. No better way to start the day
 
-
+As I was on @Amys_Kapers favourite topic, I pushed through and did the whole thing for my #day018 #100DaysOfCode And she is right #CSSGrid really is magic! Can't wait to start building stuff using these cool tricks
 
 
