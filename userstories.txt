@@ -1,0 +1,9 @@
+Common templates[edit]
+User stories may follow one of several formats or templates. The most common would be the Connextra template:[10][11] 
+As a <role> I can <capability>, so that <receive benefit>
+Chris Matts suggested that "hunting the value" was the first step in successfully delivering software, and proposed this alternative:[12] 
+In order to <receive benefit> as a <role>, I can <goal/desire>
+Elias Weldemichael, on the other hand, suggested the "so that" clause is perhaps optional although still often helpful:[13] 
+As a <role>, I can <goal/desire>, so that <why>
+Another template based on the Five Ws specifies:[citation needed] 
+As <who> <when> <where>, I <want> because <why>
