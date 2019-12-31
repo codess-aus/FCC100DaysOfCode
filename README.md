@@ -45,4 +45,19 @@ Started & completed the CSS Flexbox section. 1st thing I did on Xmas morning, af
 
 As I was on @Amys_Kapers favourite topic, I pushed through and did the whole thing for my #day018 #100DaysOfCode And she is right #CSSGrid really is magic! Can't wait to start building stuff using these cool tricks
 
+I also started the Responsive Web Design Projects section and made my first Codepen
+https://codepen.io/msandfor/details/qBEjgjv
 
+#Day019 and #Day020 40% of the way through the Responsive Web Design Projects section using Codepen to create a survey form today https://codepen.io/msandfor/full/jOELwyp it used up all my data. Totally worth it #100DaysOfCode
+
+#Day021 60% of the way through the Responsive Web Design Projects section using codepen. In fairness, this one is a mess and I need to spend more time on cleaning up this page. But dataplan is almost gone. Will have to wait to hols end #100daysofcode
+
+https://codepen.io/msandfor/full/gObxjdX
+
+#Day022 80% of the way through the Responsive Web Design Projects section. This one looks better, I like the template, but probably want to play with it a bit more when I'm back home. This whole section would be good for building stuff. #100DaysOfCode
+
+https://codepen.io/msandfor/full/gObGPGd
+
+#Day023 Completed the Responsive Web Design Projects section. That's the first 300 hours of #100DaysOfCode - there is stuff I want to go back and make better when I have more data available to me - but I'm excited about what I'm building
+
+https://codepen.io/msandfor/full/povWyzb
