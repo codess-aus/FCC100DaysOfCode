@@ -61,3 +61,7 @@ https://codepen.io/msandfor/full/gObGPGd
 #Day023 Completed the Responsive Web Design Projects section. That's the first 300 hours of #100DaysOfCode - there is stuff I want to go back and make better when I have more data available to me - but I'm excited about what I'm building
 
 https://codepen.io/msandfor/full/povWyzb
+
+#Day024 #100DaysOfCode Started and got through 20% of the #Javascript section. This is good. I enjoy #JS it makes sense to me
+
+#Day025 #100DaysOfCode Got 30% of the way through the #Javascript section. Gotta hurry - I'm mentoring for @MCJSPerth on Saturday, so I'll need to know my shit
