@@ -69,3 +69,6 @@ https://codepen.io/msandfor/full/povWyzb
 #Day026 #100DaysOfCode 40% of the way through the #JS section. I was pretty tired tonight but managed to stay focused for the hour it took because it's pretty clear to me. I can tell when looking at it when it's not right. The CSS and HTML was harder for me.
 
 #Day027 #100DaysOfCode 47% of the way through JS, can't do anymore... waaaay too tired and it's 3 mins to midnight.
+
+Think I might finally be getting back in the right timezone, fell asleep at the right time last night and only woke up for one meal at 3am, then slept again. So this is yesterdays code for #day028 #100daysofcode I'll do some more tonight
+
