@@ -75,3 +75,6 @@ Think I might finally be getting back in the right timezone, fell asleep at the 
 #Day029 #100DaysOfCode - went through all the lessons for tomorrows @MCJSPerth to check I know what the right solutions are. Nearly had a heart attack when thinking I might have merged to the master branch. Realised I hadn't. Completed everything - very pleased with myself 
 
 Day030 #100DaysOfCode - spent the day mentoring for #MusesCodeJS Saw people collaborating, understanding the problem in different ways, producing code that was different than mine, yet still worked (sometimes worked better). Heard concepts explained in different ways. Great day 
+
+Day031 #100DaysOfCode I'm 80% of the way through the #Javascript section. This is both addictive and relaxing. I spent most of the day on this (apart from the awesome nap I had) and I feel really relaxed. Off to walk the dogs and play some #pokemonGo now as a reward :-) 
+
