@@ -76,5 +76,7 @@ Think I might finally be getting back in the right timezone, fell asleep at the 
 
 Day030 #100DaysOfCode - spent the day mentoring for #MusesCodeJS Saw people collaborating, understanding the problem in different ways, producing code that was different than mine, yet still worked (sometimes worked better). Heard concepts explained in different ways. Great day 
 
-Day031 #100DaysOfCode I'm 80% of the way through the #Javascript section. This is both addictive and relaxing. I spent most of the day on this (apart from the awesome nap I had) and I feel really relaxed. Off to walk the dogs and play some #pokemonGo now as a reward :-) 
+Day031 #100DaysOfCode I'm 70% of the way through the #Javascript section. This is both addictive and relaxing. I spent most of the day on this (apart from the awesome nap I had) and I feel really relaxed. Off to walk the dogs and play some #pokemonGo now as a reward :-) 
+
+#Day032 #100DaysOfCode working on Accessing Object Properties with Variables which is making my brain hurt. I always had difficulties with Objects in coding, it's like a mental block. But I'm determined not to let it stop me this time
 
