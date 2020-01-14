@@ -80,3 +80,7 @@ Day031 #100DaysOfCode I'm 70% of the way through the #Javascript section. This i
 
 #Day032 #100DaysOfCode working on Accessing Object Properties with Variables which is making my brain hurt. I always had difficulties with Objects in coding, it's like a mental block. But I'm determined not to let it stop me this time
 
+#Day033 #100DaysOfCode getting near the end of the #javascript section. Some bits are easy to me, other bits still require significant squinting at the screen, but I'm happy with my progress. Gotta keep going and I'll get better every day 
+
+
+
