@@ -82,5 +82,7 @@ Day031 #100DaysOfCode I'm 70% of the way through the #Javascript section. This i
 
 #Day033 #100DaysOfCode getting near the end of the #javascript section. Some bits are easy to me, other bits still require significant squinting at the screen, but I'm happy with my progress. Gotta keep going and I'll get better every day 
 
+#Day034 #100DaysOfCode hosted #FendersPerth and saw some great talks, did a bit of #javascript on loops before going home
+
 
 
