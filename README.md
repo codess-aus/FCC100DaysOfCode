@@ -84,5 +84,7 @@ Day031 #100DaysOfCode I'm 70% of the way through the #Javascript section. This i
 
 #Day034 #100DaysOfCode hosted #FendersPerth and saw some great talks, did a bit of #javascript on loops before going home
 
+#Day035 #100DaysOfCode nearly finished the basic #javascript section. I like the stuff on loops.
+
 
 
