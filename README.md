@@ -86,5 +86,9 @@ Day031 #100DaysOfCode I'm 70% of the way through the #Javascript section. This i
 
 #Day035 #100DaysOfCode nearly finished the basic #javascript section. I like the stuff on loops.
 
+#Day036 #100DaysOfCode started day at #GCFPDay then when to #FringeWorld to see #STEM #Climate session. Then topped off the day by finishing the basic #javascript section on #FreeCodeCamp - I am very tired now
+
+#Day037 #100DaysOfCode started the ES6 section on #FreeCodeCamp got 10% of the way through. I guess we don't use var anymore then...
+
 
 
