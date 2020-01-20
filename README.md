@@ -90,5 +90,7 @@ Day031 #100DaysOfCode I'm 70% of the way through the #Javascript section. This i
 
 #Day037 #100DaysOfCode started the ES6 section on #FreeCodeCamp got 10% of the way through. I guess we don't use var anymore then...
 
+#day038 #100DaysOfCode 19% of the way through the ES6 section. 
+
 
 
