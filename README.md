@@ -92,5 +92,7 @@ Day031 #100DaysOfCode I'm 70% of the way through the #Javascript section. This i
 
 #day038 #100DaysOfCode 19% of the way through the ES6 section. 
 
+#Day039 #100DaysOfCode Today I went from "what the hell?" to "well yeah, obvi I'd write it that way. Less is more, right?" I definitely couldn't do this yet without the guidance, but I could read it and pick out what's wrong if someone else coded it. That's progress right?
+
 
 
