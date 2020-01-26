@@ -96,5 +96,26 @@ Day031 #100DaysOfCode I'm 70% of the way through the #Javascript section. This i
 
 #Day040 #100daysofcode My brain hurts! "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence." Helen Keller
 
+#Day041 had an indescribable yearning to do #Github #LearningLabs today for a bit of a break from front end stuff... I do love the way a bot talks you through the courses. Great way to learn.
+
+#Day042 #100DaysOfCode Even my #FreeCodeCamp seems to be celebrating #LunarNewYear
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
