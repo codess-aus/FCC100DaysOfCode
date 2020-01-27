@@ -100,6 +100,8 @@ Day031 #100DaysOfCode I'm 70% of the way through the #Javascript section. This i
 
 #Day042 #100DaysOfCode Even my #FreeCodeCamp seems to be celebrating #LunarNewYear
 
+#Day043 #100daysofcode Some days everything just makes sense. Finished the ES6 section and while yesterday baffled me, today was super easy. I think the topics were more relatable to me, not just that I do better in the morning.
+
 
  
 
