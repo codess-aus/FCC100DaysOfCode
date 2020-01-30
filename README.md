@@ -104,6 +104,8 @@ Day031 #100DaysOfCode I'm 70% of the way through the #Javascript section. This i
 
 #Day044 #100DaysOfCode Started regular express #regex in #Javascript I'm 15% through. I'm enjoying this part because it's easy for me to grasp. Is that shallow? I enjoy the stuff I find easy? Nah... I like it when it seems like a puzzle too. Just not when it's incomprehensible
 
+#Day045 #100DaysOfCode started going through the #Django workshop for #SheCodes mentoring on Saturday. I mentor in #Python but I want to be able to help with the #Django too. Did a little #github contribution, made the pull request and all before 7am. 
+
 
  
 
