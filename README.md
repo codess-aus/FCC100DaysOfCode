@@ -102,6 +102,8 @@ Day031 #100DaysOfCode I'm 70% of the way through the #Javascript section. This i
 
 #Day043 #100daysofcode Some days everything just makes sense. Finished the ES6 section and while yesterday baffled me, today was super easy. I think the topics were more relatable to me, not just that I do better in the morning.
 
+#Day044 #100DaysOfCode Started regular express #regex in #Javascript I'm 15% through. I'm enjoying this part because it's easy for me to grasp. Is that shallow? I enjoy the stuff I find easy? Nah... I like it when it seems like a puzzle too. Just not when it's incomprehensible
+
 
  
 
