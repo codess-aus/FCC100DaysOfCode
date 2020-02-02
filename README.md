@@ -106,6 +106,10 @@ Day031 #100DaysOfCode I'm 70% of the way through the #Javascript section. This i
 
 #Day045 #100DaysOfCode started going through the #Django workshop for #SheCodes mentoring on Saturday. I mentor in #Python but I want to be able to help with the #Django too. Did a little #github contribution, made the pull request and all before 7am. 
 
+#day046 Gonna count mentoring in #Python as today's #100DaysOfCode as we were then from 9am till 4pm and I got tested on my python, django and Windows knowledge by these super keen #womenWhoCode at #SheCodes
+
+#Day047 #100DaysOfCode 27% of the way through the #Regex section. Love it.
+
 
  
 
