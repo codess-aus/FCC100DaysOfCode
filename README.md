@@ -110,6 +110,8 @@ Day031 #100DaysOfCode I'm 70% of the way through the #Javascript section. This i
 
 #Day047 #100DaysOfCode 27% of the way through the #Regex section. Love it.
 
+#Day048 #100DaysOfCode 42% of the way through this section. Wanted to get this done in the morning before the busy week starts. 
+
 
  
 
