@@ -112,6 +112,12 @@ Day031 #100DaysOfCode I'm 70% of the way through the #Javascript section. This i
 
 #Day048 #100DaysOfCode 42% of the way through this section. Wanted to get this done in the morning before the busy week starts. 
 
+#Day049 #100DaysOfCode loved checked the caboose was behind them 52% done
+
+#Day50 #100DaysofCode Got up to the "Restrict possible usernames" task and stopped, this one looks super interesting so want to think about it more before I just push out some code on instinct. Will come back to it later.
+
+
+
 
  
 
