@@ -116,6 +116,8 @@ Day031 #100DaysOfCode I'm 70% of the way through the #Javascript section. This i
 
 #Day50 #100DaysofCode Got up to the "Restrict possible usernames" task and stopped, this one looks super interesting so want to think about it more before I just push out some code on instinct. Will come back to it later.
 
+#Day051 #100DaysOfCode had a lot of fun with the pattern matching section. Not quite finished, but I'm too tired to keep going. Looking forward to the weekend when I can do a few uninterrupted hours.
+
 
 
 
