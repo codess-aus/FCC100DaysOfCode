@@ -118,6 +118,14 @@ Day031 #100DaysOfCode I'm 70% of the way through the #Javascript section. This i
 
 #Day051 #100DaysOfCode had a lot of fun with the pattern matching section. Not quite finished, but I'm too tired to keep going. Looking forward to the weekend when I can do a few uninterrupted hours.
 
+#Day052 #100DaysOfCode Finished the #regex section which is good, I don't have to remember all those letters and symbols do I ?
+
+let wsRegex = /^\s+|\s+$/g;
+
+Next onto debugging!
+
+
+
 
 
 
