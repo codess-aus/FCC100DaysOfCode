@@ -124,7 +124,7 @@ let wsRegex = /^\s+|\s+$/g;
 
 Next onto debugging!
 
-
+Day053 #100DaysOfCode Loved Loved Loved the debugging section. I thought it was gonna be some mysterious toolset that would explain the magical ways people debug code. Instead it was pretty much just me looking at code and solving the errors. I do love solving puzzles
 
 
 
