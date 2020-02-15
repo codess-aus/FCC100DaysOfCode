@@ -126,6 +126,10 @@ Next onto debugging!
 
 Day053 #100DaysOfCode Loved Loved Loved the debugging section. I thought it was gonna be some mysterious toolset that would explain the magical ways people debug code. Instead it was pretty much just me looking at code and solving the errors. I do love solving puzzles
 
+#Day054 #100DaysOfCode popping, shifting, unshifting and splicing. Fun ways to amend arrays. The more you do this stuff, the more sense it makes. I do like #javascript … I mean, it's not #python but it's still super fun and makes sense to me
+
+
+
 
 
 
