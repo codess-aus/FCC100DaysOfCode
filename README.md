@@ -128,7 +128,7 @@ Day053 #100DaysOfCode Loved Loved Loved the debugging section. I thought it was 
 
 #Day054 #100DaysOfCode popping, shifting, unshifting and splicing. Fun ways to amend arrays. The more you do this stuff, the more sense it makes. I do like #javascript … I mean, it's not #python but it's still super fun and makes sense to me
 
-
+#Day055 #100DaysOfCode did some more #Javascript on spread operators, then switched to #codecombat for a while, just for funsies.
 
 
 
