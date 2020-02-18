@@ -132,6 +132,8 @@ Day053 #100DaysOfCode Loved Loved Loved the debugging section. I thought it was 
 
 #Day056 #100DaysOfCode Tried to do some multi-dimensional arrays, but my tired brain could not grasp the problem, never mind formulate the answer. So I went back to #CodeCombat to solve some puzzles in #Javascript instead of #Python - turns out it's exactly the same at the start
 
+#Day057 #100DaysOfCode Accessed some Property Names with Bracket Notation. I would like some fruit now...
+
 
 
 
