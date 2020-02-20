@@ -136,6 +136,11 @@ Day053 #100DaysOfCode Loved Loved Loved the debugging section. I thought it was 
 
 #Day058 #100DaysOfCode Finished the basic data structures section of #FreeCodeCamp Last night I put fruit into arrays, and it made me want fruit. Today I was sorting friends...
 
+#Day059 #100DaysOfCode my tired brain was finding it hard going, so I decided to go back to basics. I reset my #CodeCombat progress (yes I wiped everything), and started again in #Javascript Realised two things:
+
+1. Going through things now I am familiar with the concepts means I can go through at a much faster pace, and slow down when the concept is less clear to me.
+2. #Python and #Javascript have a lot of stuff in common and the learnings for one make it easier for me to get the other
+
 
 
 
