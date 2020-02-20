@@ -134,6 +134,9 @@ Day053 #100DaysOfCode Loved Loved Loved the debugging section. I thought it was 
 
 #Day057 #100DaysOfCode Accessed some Property Names with Bracket Notation. I would like some fruit now...
 
+#Day058 #100DaysOfCode Finished the basic data structures section of #FreeCodeCamp Last night I put fruit into arrays, and it made me want fruit. Today I was sorting friends...
+
+
 
 
 
