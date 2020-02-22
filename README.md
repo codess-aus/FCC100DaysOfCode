@@ -141,7 +141,9 @@ Day053 #100DaysOfCode Loved Loved Loved the debugging section. I thought it was 
 1. Going through things now I am familiar with the concepts means I can go through at a much faster pace, and slow down when the concept is less clear to me.
 2. #Python and #Javascript have a lot of stuff in common and the learnings for one make it easier for me to get the other
 
+#day060 #100daysofcode did about 20 levels of codecombat tonight. It's really quick when you know what you're doing 
 
+#Day061 Finished Kithgard Dungeon and did 9 levels of Backwoods Forest. I definitely took way longer to work through this the first time. Being familiar with the concepts makes everything much easier... and so much quicker. And better.
 
 
 
