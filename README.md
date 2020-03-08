@@ -145,6 +145,14 @@ Day053 #100DaysOfCode Loved Loved Loved the debugging section. I thought it was 
 
 #Day061 Finished Kithgard Dungeon and did 9 levels of Backwoods Forest. I definitely took way longer to work through this the first time. Being familiar with the concepts makes everything much easier... and so much quicker. And better.
 
+#Day062 did a bunch of code combat levels, and then looked at factorials on freecodecamp.
+
+#day063 #100daysofcode went to #SheCodes for a casual #hackday and worked on some #Microsoft #botframework stuff in #python Always more fun when you get to code with people you love being around Purple heart❤Blue heartYellow heartGreen heart❤Orange heartYellow heartRevolving hearts
+
+#day064 #100daysofcode went to learn the #GirlsProgrammingNetwork #python tutorials at ECU today. Next week we get to teach it to 14 year olds.
+
+#Day065 #100DaysOfCode Finished going through all the content for building the Secret Diary Chatbot for the #GirlsProgrammingNetwork That was really fun. I learn so much better when incentivized by the idea of teaching others how to learn.
+
 
 
  
