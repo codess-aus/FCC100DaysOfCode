@@ -153,6 +153,8 @@ Day053 #100DaysOfCode Loved Loved Loved the debugging section. I thought it was 
 
 #Day065 #100DaysOfCode Finished going through all the content for building the Secret Diary Chatbot for the #GirlsProgrammingNetwork That was really fun. I learn so much better when incentivized by the idea of teaching others how to learn.
 
+#Day066 #100daysofcode George tells me I should solve algorithms by breaking them down into each component part. Write out the sudo code and then what I am doing will be clearer. George is often right.
+
 
 
  
