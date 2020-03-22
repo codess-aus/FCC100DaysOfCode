@@ -155,6 +155,15 @@ Day053 #100DaysOfCode Loved Loved Loved the debugging section. I thought it was 
 
 #Day066 #100daysofcode George tells me I should solve algorithms by breaking them down into each component part. Write out the sudo code and then what I am doing will be clearer. George is often right.
 
+#day067 #100daysofcode spent the day helping girls aged 10 to 16 code a bot in #python
+
+#Day068 #100DaysOfCode went back to my #javascript course and continued with algorithms. Currently I can't see a day when I'd remember these methods without looking them up... but I remember a day when I couldn't read and understand them, so I guess I just need to have faith
+
+
+#Day069 #100DaysOfCode Did a bunch more #javascript algorithms. Going to do some #AI stuff now
+
+
+
 
 
  
