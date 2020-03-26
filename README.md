@@ -159,8 +159,9 @@ Day053 #100DaysOfCode Loved Loved Loved the debugging section. I thought it was 
 
 #Day068 #100DaysOfCode went back to my #javascript course and continued with algorithms. Currently I can't see a day when I'd remember these methods without looking them up... but I remember a day when I couldn't read and understand them, so I guess I just need to have faith
 
-
 #Day069 #100DaysOfCode Did a bunch more #javascript algorithms. Going to do some #AI stuff now
+
+#Day070 I've reached the part I've been dreading... I definitely did not like #OOP the first time round. However, I'm ready to give it another go. #FreeCodeCamp is a really good teacher, surely I can get my head round it now #100DaysOfCode
 
 
 
