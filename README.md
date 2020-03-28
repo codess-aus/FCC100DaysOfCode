@@ -163,6 +163,10 @@ Day053 #100DaysOfCode Loved Loved Loved the debugging section. I thought it was 
 
 #Day070 I've reached the part I've been dreading... I definitely did not like #OOP the first time round. However, I'm ready to give it another go. #FreeCodeCamp is a really good teacher, surely I can get my head round it now #100DaysOfCode
 
+#day071 #100DaysOfCode It was a #Microsoft Learning Day today so Steven Payne taught a bunch of us Coding with the #MinecraftEdu - you can use #Python or #Javascript or logic blocks. I also did a couple of hours building intelligent bots on the #AIschool
+
+#Day072 #100DaysOfCode Today was one of those days when I spent so long in the code that my #doggos came and demanded I leave the screen and come walk, eat or anything but code. C# is fussy hey? But Visual Studio has a lot of stuff to fix all those complaints. Building Bots again
+
 
 
 
