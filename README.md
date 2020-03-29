@@ -169,6 +169,13 @@ Day053 #100DaysOfCode Loved Loved Loved the debugging section. I thought it was 
 
 #Day073 #100DaysOfCode - I have been through this tutorial 3 times and I still don't know what's wrong with the code. I have always had a mental block around #OOP and C# is an incomprehensible language to me, but I was really focused today and I still can't fix it :-(
 
+    @mattyjward gave me the fix on the twitter:
+    I'm thinking you might have a file named echobotold that is also defining a class named echobot and thoroughly confusing the compiler. I'd comment out that whole file
+
+    I renamed echobotold.cs to echobot.old and it worked :-D
+
+    
+
 
 
 
