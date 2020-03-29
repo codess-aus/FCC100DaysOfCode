@@ -167,6 +167,8 @@ Day053 #100DaysOfCode Loved Loved Loved the debugging section. I thought it was 
 
 #Day072 #100DaysOfCode Today was one of those days when I spent so long in the code that my #doggos came and demanded I leave the screen and come walk, eat or anything but code. C# is fussy hey? But Visual Studio has a lot of stuff to fix all those complaints. Building Bots again
 
+#Day073 #100DaysOfCode - I have been through this tutorial 3 times and I still don't know what's wrong with the code. I have always had a mental block around #OOP and C# is an incomprehensible language to me, but I was really focused today and I still can't fix it :-(
+
 
 
 
