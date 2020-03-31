@@ -174,7 +174,7 @@ Day053 #100DaysOfCode Loved Loved Loved the debugging section. I thought it was 
 
     I renamed echobotold.cs to echobot.old and it worked :-D
 
-    
+#Day074 #100DaysOfCode - Okay, I know I always say how much I hate #OOP but this morning I started the #FreeCodeCamp chapters on it, and I got 30% of the way through before work and it was pretty fun. I'll try to remain optimistic that as it gets harder it will get even more fun 
 
 
 
