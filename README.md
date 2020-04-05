@@ -176,6 +176,14 @@ Day053 #100DaysOfCode Loved Loved Loved the debugging section. I thought it was 
 
 #Day074 #100DaysOfCode - Okay, I know I always say how much I hate #OOP but this morning I started the #FreeCodeCamp chapters on it, and I got 30% of the way through before work and it was pretty fun. I'll try to remain optimistic that as it gets harder it will get even more fun 
 
+#Day075 #100DaysOfCode Was talking to Eliza earlier... things got dark very quickly. I wrote my first one of these in #Prolog when I was doing my Masters in CompSci. Looking at it in #Python today #TuringTest #ChatBot #Python
+
+#Day076 #100DaysOfCode 62% of the way through the #OOP section on #FreeCodeCamp - it's actually more enjoyable than I remember. Think I might be able to get into it after all.
+
+#Day077 #100DaysOfCode Having me struggling through the #AISchool #CognitiveBots tutorials. C# is definitely not my thing. But have been getting some help from the twitterverse so it's been cool. And frustrating. And interesting... I think
+
+
+
 
 
 

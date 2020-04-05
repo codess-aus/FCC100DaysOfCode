@@ -18,9 +18,6 @@ We return the new array (newArray).
 */
 
 
-
-
-
 function bouncer(arr) {
   let newArray = [];
   for (var i = 0; i < arr.length; i++) {
