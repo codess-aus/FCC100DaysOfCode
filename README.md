@@ -182,6 +182,12 @@ Day053 #100DaysOfCode Loved Loved Loved the debugging section. I thought it was 
 
 #Day077 #100DaysOfCode Having me struggling through the #AISchool #CognitiveBots tutorials. C# is definitely not my thing. But have been getting some help from the twitterverse so it's been cool. And frustrating. And interesting... I think
 
+#Day078 did some more bot stuff. Researching. Reading. A bit a #Python coding, but nothing significant. Should be in a good position for tomorrow though.
+
+Day079 #100DaysOfCode Finished the #OOP section on #FreeCodeCamp while mentoring for #SheCodes on #Python FYI - We used #MSTeams for my mentoring group chat not the alternative
+
+I had to do some more #Javascript just to calm myself down. I'm in the #FunctionalProgramming Section of #FreeCodeCamp It was talking about cups of tea, which is naturally calming to someone who comes from the UK #100daysofcode #Day080
+
 
 
 
