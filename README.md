@@ -188,7 +188,7 @@ Day079 #100DaysOfCode Finished the #OOP section on #FreeCodeCamp while mentoring
 
 I had to do some more #Javascript just to calm myself down. I'm in the #FunctionalProgramming Section of #FreeCodeCamp It was talking about cups of tea, which is naturally calming to someone who comes from the UK #100daysofcode #Day080
 
-
+Day081 #100DaysOfCode Did a couple more functional programming sections today, then worked on my bots talk for #DevTalks
 
 
 
