@@ -190,6 +190,10 @@ I had to do some more #Javascript just to calm myself down. I'm in the #Function
 
 Day081 #100DaysOfCode Did a couple more functional programming sections today, then worked on my bots talk for #DevTalks
 
+#Day082 #100DaysOfCode Played with a #python bot that can tell if a twitter account is a bot or not. Lots of research towards my #DevTalks talk.
+
+#Day083 #100DaysOfCode Started Amy's Front End Workshop, that she is doing for #NDCOslo - in my mind we were going to be doing #Javascript but of course it was #HTML and #CSS - enjoyed learning with George and Jia as my virtual classmates 
+
 
 
 
