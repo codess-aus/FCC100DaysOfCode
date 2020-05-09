@@ -194,6 +194,8 @@ Day081 #100DaysOfCode Did a couple more functional programming sections today, t
 
 #Day083 #100DaysOfCode Started Amy's Front End Workshop, that she is doing for #NDCOslo - in my mind we were going to be doing #Javascript but of course it was #HTML and #CSS - enjoyed learning with George and Jia as my virtual classmates 
 
+#Day084 #100DaysOfCode Continued with Amy's Day 2 FrontEnd Workshop, with Jia as the other student. Was really good today. We moved a lot quicker, but we were also asking lots of questions. Jia thinks of different things than I do, so I learnt a lot of stuff. 
+
 
 
 
