@@ -196,6 +196,16 @@ Day081 #100DaysOfCode Did a couple more functional programming sections today, t
 
 #Day084 #100DaysOfCode Continued with Amy's Day 2 FrontEnd Workshop, with Jia as the other student. Was really good today. We moved a lot quicker, but we were also asking lots of questions. Jia thinks of different things than I do, so I learnt a lot of stuff. 
 
+#Day085 #100dayofcode Learning #accessibility today on Amy Kapernicks Front End Fundamentals workshop. Jia and Snickers are studying with us.
+
+@Day086 #100DaysOfCode Been doing more Bot Framework stuff this week. Trying to follow the whole process from end-to-end adding Q&A Maker, LUIS, ChitChat, Project Personality Chat, Translator Text, Image detection, Multi-Lingual etc...
+
+Been slowed down by subscription issues and account errors, which is slowing me down. But it's cool stuff - so much is there to build with, just a matter of planning what to do with it all - and then doing it.
+
+Figured out what was wrong with the LUIS authoring with the help of a nice Microsoft engineer from Europe. Finished the bot, it works perfectly locally but not in the Web App Test from Azure. Nothing wrong with the code, just some stupid integration thing #Day087 #100DaysOfCode
+
+#Day088 #100DaysOfCode Day the final day of Amy's Front-End Fundamentals workshop. We did Testing today.
+
 
 
 
