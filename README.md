@@ -206,6 +206,8 @@ Figured out what was wrong with the LUIS authoring with the help of a nice Micro
 
 #Day088 #100DaysOfCode Day the final day of Amy's Front-End Fundamentals workshop. We did Testing today.
 
+#Day089 #100DaysOfCode Back into the FreeCodeCamp Functional Programming stuff. Brain is definitely slow after not practicing this for a while.
+
 
 
 
