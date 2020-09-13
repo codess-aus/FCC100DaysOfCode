@@ -208,7 +208,7 @@ Figured out what was wrong with the LUIS authoring with the help of a nice Micro
 
 #Day089 #100DaysOfCode Back into the FreeCodeCamp Functional Programming stuff. Brain is definitely slow after not practicing this for a while.
 
-
+#day090 #100DaysOfCode OK - back into the #Javascript Functional Programming. Complexity is 6... so time to do something, if only I knew what. 
 
 
 
