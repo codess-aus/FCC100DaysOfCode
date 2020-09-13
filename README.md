@@ -212,23 +212,5 @@ Figured out what was wrong with the LUIS authoring with the help of a nice Micro
 
 #day091 #100DaysOfCode OK - back into the #Javascript Functional Programming. Complexity is 6... so time to do something, if only I knew what. 
 
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#day092 #100daysofcode Currying??!! WTF?
 
