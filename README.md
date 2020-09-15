@@ -214,3 +214,8 @@ Figured out what was wrong with the LUIS authoring with the help of a nice Micro
 
 #day092 #100daysofcode Currying??!! WTF?
 
+Created my #Github Readme and I can't get over how pretty it is #day093 #100DaysOfCode Follow me on: 
+
+https://github.com/msandfor
+
+#Day094 #100DaysOfCode - had to create more Gifs for my #GitHub profile.... I didn't just waste 3 hours messing around with this. I also did some Github Actions training on the learning labs - and I'm going to do some more #Javascript on #FreeCodeCamp now - I promise!
