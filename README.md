@@ -221,3 +221,5 @@ https://github.com/msandfor
 #Day094 #100DaysOfCode - had to create more Gifs for my #GitHub profile.... I didn't just waste 3 hours messing around with this. I also did some Github Actions training on the learning labs - and I'm going to do some more #Javascript on #FreeCodeCamp now - I promise!
 
 #Day095 #100DaysOfCode - did a bit of open sourcery today on #github - contributed to a couple of respositories, made some pull requests. Then got distracted with some cool Rich Harris talks about Svelte
+
+#Day096 #100DaysOfCode - did some #Javascript puzzles on #FreeCodeCamp Did loads of #GitHub stuff getting ready for #Hacktoberfest - looking at #OpenSource contribution, studying Pull Requests, tagging etc
