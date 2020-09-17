@@ -223,3 +223,5 @@ https://github.com/msandfor
 #Day095 #100DaysOfCode - did a bit of open sourcery today on #github - contributed to a couple of respositories, made some pull requests. Then got distracted with some cool Rich Harris talks about Svelte
 
 #Day096 #100DaysOfCode - did some #Javascript puzzles on #FreeCodeCamp Did loads of #GitHub stuff getting ready for #Hacktoberfest - looking at #OpenSource contribution, studying Pull Requests, tagging etc
+
+#Day097 #100DaysOfCode Got a #LinkedIn request from Nirmal - who found me through #Github so I spent some time looking at his repositories. I also started a new workshop for #NuevoFoundation which is fun, but it requires a lot of concentration
