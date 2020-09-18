@@ -225,3 +225,5 @@ https://github.com/msandfor
 #Day096 #100DaysOfCode - did some #Javascript puzzles on #FreeCodeCamp Did loads of #GitHub stuff getting ready for #Hacktoberfest - looking at #OpenSource contribution, studying Pull Requests, tagging etc
 
 #Day097 #100DaysOfCode Got a #LinkedIn request from Nirmal - who found me through #Github so I spent some time looking at his repositories. I also started a new workshop for #NuevoFoundation which is fun, but it requires a lot of concentration
+
+#Day98 #100DaysOfCode Did a bunch of #Github Learning Labs around #DevOps and #GithubActions Love this Docker pic which makes the value of containers very clear - even if it wasn't already to every dev who has ever tried to run code and watched it fail simply because of version
