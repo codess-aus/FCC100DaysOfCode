@@ -227,3 +227,6 @@ https://github.com/msandfor
 #Day097 #100DaysOfCode Got a #LinkedIn request from Nirmal - who found me through #Github so I spent some time looking at his repositories. I also started a new workshop for #NuevoFoundation which is fun, but it requires a lot of concentration
 
 #Day98 #100DaysOfCode Did a bunch of #Github Learning Labs around #DevOps and #GithubActions Love this Docker pic which makes the value of containers very clear - even if it wasn't already to every dev who has ever tried to run code and watched it fail simply because of version
+
+#Day099 #100DaysOfCode - I started a new repository for #Hacktoberfest that will be easy for First-Timers to make their first pull request. It will be ready to go for October - and then the magic of the #OpenSource community will help it grow, whilst enabling codenewbies 
+
