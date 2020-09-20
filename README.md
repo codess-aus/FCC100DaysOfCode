@@ -230,3 +230,4 @@ https://github.com/msandfor
 
 #Day099 #100DaysOfCode - I started a new repository for #Hacktoberfest that will be easy for First-Timers to make their first pull request. It will be ready to go for October - and then the magic of the #OpenSource community will help it grow, whilst enabling codenewbies 
 
+#Day100 #100DaysOfCode - Got most of the content onto the 10 Easy Steps Repo - next I'll see if I can put some automation in there using Github actions, hope it's as easy as the turorial makes out 
